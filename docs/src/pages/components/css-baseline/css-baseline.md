@@ -8,7 +8,7 @@ components: CssBaseline, ScopedCssBaseline
 
 ## Global reset
 
-You might be familiar with [normalize.css](https://github.com/necolas/normalize.css), a collection of HTML element and attribute style-normalizations.
+You might be familiar  a collection of HTML element and attribute style-normalizations.
 
 ```jsx
 import React from 'react';
